@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContagemCamiseta", "ContagemCamiseta\ContagemCamiseta.csproj", "{D8D141F7-D230-4FB5-AC50-FF1D6C6E221C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Program", "Program", "{6BCE2FFF-E97A-4E98-8574-FF131A948041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8D141F7-D230-4FB5-AC50-FF1D6C6E221C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D141F7-D230-4FB5-AC50-FF1D6C6E221C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D141F7-D230-4FB5-AC50-FF1D6C6E221C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D141F7-D230-4FB5-AC50-FF1D6C6E221C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D8D141F7-D230-4FB5-AC50-FF1D6C6E221C} = {6BCE2FFF-E97A-4E98-8574-FF131A948041}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4633ED02-C2EF-443B-8398-D6922AED045C}
+	EndGlobalSection
+EndGlobal
